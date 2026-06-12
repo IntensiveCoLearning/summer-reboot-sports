@@ -67,6 +67,8 @@
 
 ## 社群
 
+微信群二维码：![微信群二维码](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/skelitalynn/images/2026-06-12-1781243323187-a33c176b862adf2f8765a3411436f39e.jpg)
+
 微信联系人：shenaringo03
 # 第3周｜把运动放回生活
 
