@@ -195,7 +195,9 @@ Proof：
 | [meixingyu001-code](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/meixingyu001-code.md) | | | | | | | | | | | | | | | | | | | | | |
 | [BareerahBenjamin](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/BareerahBenjamin.md) | | | | | | | | | | | | | | | | | | | | | |
 | [tongtong268439](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/tongtong268439.md) | | | | | | | | | | | | | | | | | | | | | |
+| [RicardoXu2](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/RicardoXu2.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
