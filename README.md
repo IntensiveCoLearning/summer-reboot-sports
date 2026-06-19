@@ -217,7 +217,9 @@ Proof：
 | [Apricity0401](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Apricity0401.md) | | | | | | | | | | | | | | | | | | | | | |
 | [Aafff623](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Aafff623.md) | | | | | | | | | | | | | | | | | | | | | |
 | [NeoWeb3Nova](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/NeoWeb3Nova.md) | | | | | | | | | | | | | | | | | | | | | |
+| [lexiiicls](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/lexiiicls.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
