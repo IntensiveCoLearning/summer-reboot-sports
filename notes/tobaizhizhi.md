@@ -15,6 +15,8 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
-
-
+# 2026-06-22
+<!-- DAILY_CHECKIN_2026-06-22_START -->
+跟着健身视频做了30分钟。
+<!-- DAILY_CHECKIN_2026-06-22_END -->
 <!-- Content_END -->
