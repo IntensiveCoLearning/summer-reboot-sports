@@ -15,6 +15,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-22
+<!-- DAILY_CHECKIN_2026-06-22_START -->
+6.22：打卡第一天：早晨称重117.3斤；7.12的目标是108斤
 
+今天完成了背拉5\*20个、徒步、平板支撑1min\*2+臀桥30\*2+开合蚌30\*2
 
+练习了一会儿宅舞
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/MatianMaoL/images/2026-06-22-1782132571649-image.png)
+<!-- DAILY_CHECKIN_2026-06-22_END -->
 <!-- Content_END -->
