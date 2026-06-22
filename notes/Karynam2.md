@@ -15,6 +15,10 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-22
+<!-- DAILY_CHECKIN_2026-06-22_START -->
+6月22号
 
-
+跟着帕梅拉做了20min左右的跳操
+<!-- DAILY_CHECKIN_2026-06-22_END -->
 <!-- Content_END -->
