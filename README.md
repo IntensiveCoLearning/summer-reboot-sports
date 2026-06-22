@@ -224,7 +224,7 @@ Proof：
 | [pakeypay](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/pakeypay.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [Volca2603](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Volca2603.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [ggus39](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/ggus39.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
-| [Karynam2](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Karynam2.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [Karynam2](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Karynam2.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [big-dudu-mosty](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/big-dudu-mosty.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [gitgdut](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/gitgdut.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [Iven666](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Iven666.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
@@ -244,6 +244,7 @@ Proof：
 | [eyw8](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/eyw8.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [luuzuofan-design](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/luuzuofan-design.md) |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
