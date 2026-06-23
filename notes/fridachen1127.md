@@ -15,8 +15,36 @@ timezone: UTC+0
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-23
+<!-- DAILY_CHECKIN_2026-06-23_START -->
+运动类型：
+
+1.  爬坡，10min
+    
+2.  划船，2km
+    
+3.  单侧训练，侧腰，5min
+    
+
+prrof: 2
+
+身体感受
+
+1.  泡沫轴用处不太大
+    
+2.  股四酸痛，还可以保持运动
+    
+3.  运动不太激烈是为了周三周四的团课
+    
+4.  多睡觉，先把左眼疲劳缓回来
+    
+
+![Snipaste_2026-06-23_22-05-01.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/fridachen1127/images/2026-06-23-1782248720627-Snipaste_2026-06-23_22-05-01.jpg)![IMG_6980.PNG](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/fridachen1127/images/2026-06-23-1782248641403-IMG_6980.PNG)
+<!-- DAILY_CHECKIN_2026-06-23_END -->
+
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 运动类型：
 
 1.  hyrox，30min
