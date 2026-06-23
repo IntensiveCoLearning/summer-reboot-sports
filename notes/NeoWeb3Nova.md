@@ -15,8 +15,26 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-23
+<!-- DAILY_CHECKIN_2026-06-23_START -->
+今天 Day 2 记录：  
+  
+运动类型／时长：  
+步行/日常活动，83 分钟；今日 12,712 步，10.39 km，Move 494 kcal，Stand 14 小时，三环全部超额完成。  
+  
+照片/proof：  
+
+![微信图片_20260623205701_189_25.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/NeoWeb3Nova/images/2026-06-23-1782220644600-_____20260623205701_189_25.jpg)
+
+  
+  
+身体感受/一句话记录：  
+Day 2 继续不掉线。今天不是追求强度，而是稳定续航：走够了、动够了、站够了，身体状态保持在线。
+<!-- DAILY_CHECKIN_2026-06-23_END -->
+
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 \> 【Day 1 / 21】完成  
 \> 运动类型/时长：步行/跑步 91min  
 \> 照片/proof：
