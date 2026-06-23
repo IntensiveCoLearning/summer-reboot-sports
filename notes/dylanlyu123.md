@@ -17,8 +17,29 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-23
+<!-- DAILY_CHECKIN_2026-06-23_START -->
+今天是否完成：
+
+-   完成
+    
+
+运动类型：游泳
+
+运动时长：20 min
+
+Proof：
+
+![微信图片_2026-06-23_210140_646.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/dylanlyu123/images/2026-06-23-1782219714490-_____2026-06-23_210140_646.jpg)
+
+身体 / 睡眠 / 情绪感受：good，睡眠不太好，晚上入睡困难，情绪不错
+
+一句话记录：今天海浪太大了，只在海滩周围游了一下，感受海浪来的感觉，感受在海浪中的感觉，感觉被海浪拍打的感觉，跟“势”有不少的联系，波浪理论本质也是“势”的理论，在自然中总能学到很多
+<!-- DAILY_CHECKIN_2026-06-23_END -->
+
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 今天是否完成：
 
 -   降级完成
