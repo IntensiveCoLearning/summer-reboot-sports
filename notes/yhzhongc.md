@@ -15,8 +15,16 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-24
+<!-- DAILY_CHECKIN_2026-06-24_START -->
+椭圆仪40分钟慢跑，消耗290卡
+
+![52aa9280fe964cfa2d75c2819e5d9da1.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/yhzhongc/images/2026-06-24-1782316553984-52aa9280fe964cfa2d75c2819e5d9da1.jpg)![8725f68151adf11ee7af09f0390e77b8.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/yhzhongc/images/2026-06-24-1782316573676-8725f68151adf11ee7af09f0390e77b8.jpg)
+<!-- DAILY_CHECKIN_2026-06-24_END -->
+
 # 2026-06-23
 <!-- DAILY_CHECKIN_2026-06-23_START -->
+
 ![e720706642480d67f967f97799a46412.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/yhzhongc/images/2026-06-23-1782230260599-e720706642480d67f967f97799a46412.jpg)
 
   
@@ -25,6 +33,7 @@ timezone: UTC+8
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 运动类型／时长：椭圆仪/40分钟
 
