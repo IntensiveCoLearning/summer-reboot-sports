@@ -15,13 +15,20 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-24
+<!-- DAILY_CHECKIN_2026-06-24_START -->
+今天依旧康复训练，走跑结合，大概 5 公里，用时 40 分钟左右。
+<!-- DAILY_CHECKIN_2026-06-24_END -->
+
 # 2026-06-23
 <!-- DAILY_CHECKIN_2026-06-23_START -->
+
 今天跑了大概 40 分钟的慢跑，再过几天准备去游泳。
 <!-- DAILY_CHECKIN_2026-06-23_END -->
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 今天是在学校后湖散步，大概 40 分钟。
 
