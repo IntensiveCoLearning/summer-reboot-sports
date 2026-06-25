@@ -15,8 +15,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-25
+<!-- DAILY_CHECKIN_2026-06-25_START -->
+跑步一公里 + 力量训练 30 分钟
+<!-- DAILY_CHECKIN_2026-06-25_END -->
+
 # 2026-06-23
 <!-- DAILY_CHECKIN_2026-06-23_START -->
+
 ![4f70ff7fafe2145ade3d30ac1e8236c5.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/jingedawang/images/2026-06-23-1782225163363-4f70ff7fafe2145ade3d30ac1e8236c5.jpg)
 
 微跑了一会儿步
@@ -24,6 +30,7 @@ timezone: UTC+8
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 ![cdb9fd7cd109bae502274a6a350da68a.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/jingedawang/images/2026-06-22-1782137678234-cdb9fd7cd109bae502274a6a350da68a.jpg)
 
