@@ -15,13 +15,20 @@ timezone: UTC+0
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-25
+<!-- DAILY_CHECKIN_2026-06-25_START -->
+1.  爬坡+跑步，35min
+<!-- DAILY_CHECKIN_2026-06-25_END -->
+
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
+
 夏天出门上上下下找耳机找了一小时，绝倒。
 <!-- DAILY_CHECKIN_2026-06-24_END -->
 
 # 2026-06-23
 <!-- DAILY_CHECKIN_2026-06-23_START -->
+
 
 运动类型：
 
@@ -50,6 +57,7 @@ prrof: 2
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 运动类型：
