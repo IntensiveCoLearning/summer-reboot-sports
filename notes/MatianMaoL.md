@@ -15,8 +15,18 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-26
+<!-- DAILY_CHECKIN_2026-06-26_START -->
+6.26：打卡第5天，今早体重114.7斤，7月12日目标108斤
+
+今天完成：背拉5\*20\*2、平板支撑2\*1min、开合蚌2\*30、臀桥2\*30、徒步9
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/MatianMaoL/images/2026-06-26-1782482448751-image.png)
+<!-- DAILY_CHECKIN_2026-06-26_END -->
+
 # 2026-06-25
 <!-- DAILY_CHECKIN_2026-06-25_START -->
+
 6.25：打卡第4天，今早体重115.8斤，7月12日目标108斤
 
 今天完成：背拉5\*20\*2、平板支撑2\*1min、开合蚌2\*30、臀桥2\*30、徒步12.8
@@ -26,6 +36,7 @@ timezone: UTC+8
 
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
+
 
 6.24：打卡第3天，今早体重114.9斤，7月12日目标108斤
 
@@ -38,6 +49,7 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2026-06-23_START -->
 
 
+
 6.23：打卡第2天，今早体重171.2斤，7月12日目标108斤
 
 今天完成：背拉5\*20\*2、平板支撑2\*1min、开合蚌2\*30、臀桥2\*30、徒步10km
@@ -47,6 +59,7 @@ timezone: UTC+8
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
