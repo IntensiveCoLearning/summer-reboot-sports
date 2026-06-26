@@ -15,8 +15,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-26
+<!-- DAILY_CHECKIN_2026-06-26_START -->
+锻炼30分钟。冲鸭！今天力量20分钟，有氧20分钟
+<!-- DAILY_CHECKIN_2026-06-26_END -->
+
 # 2026-06-25
 <!-- DAILY_CHECKIN_2026-06-25_START -->
+
 目标：
 
 今天运动40分钟，飞鸟+卧推，累麻了！今天疼了一天
@@ -33,6 +39,7 @@ timezone: UTC+8
 
 # 2026-06-23
 <!-- DAILY_CHECKIN_2026-06-23_START -->
+
 
 目标：
 
@@ -52,6 +59,7 @@ timezone: UTC+8
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 目标：
