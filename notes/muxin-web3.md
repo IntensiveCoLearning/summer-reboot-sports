@@ -15,6 +15,11 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-25
+<!-- DAILY_CHECKIN_2026-06-25_START -->
+今天带娃出门，在高铁上举娃 10 * 3组，暴走一小时（也算运动了哈
+<!-- DAILY_CHECKIN_2026-06-25_END -->
+
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
 买的弹力带到了，在家试试
