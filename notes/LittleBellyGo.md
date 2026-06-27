@@ -15,13 +15,20 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-27
+<!-- DAILY_CHECKIN_2026-06-27_START -->
+![IMG_0714.png](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/LittleBellyGo/images/2026-06-27-1782575132312-IMG_0714.png)
+<!-- DAILY_CHECKIN_2026-06-27_END -->
+
 # 2026-06-26
 <!-- DAILY_CHECKIN_2026-06-26_START -->
+
 ![IMG_0710.png](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/LittleBellyGo/images/2026-06-26-1782487623236-IMG_0710.png)
 <!-- DAILY_CHECKIN_2026-06-26_END -->
 
 # 2026-06-25
 <!-- DAILY_CHECKIN_2026-06-25_START -->
+
 
 ![IMG_0705.png](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/LittleBellyGo/images/2026-06-25-1782398428779-IMG_0705.png)
 <!-- DAILY_CHECKIN_2026-06-25_END -->
@@ -30,11 +37,13 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2026-06-24_START -->
 
 
+
 ![IMG_0694.png](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/LittleBellyGo/images/2026-06-24-1782307304795-IMG_0694.png)
 <!-- DAILY_CHECKIN_2026-06-24_END -->
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
