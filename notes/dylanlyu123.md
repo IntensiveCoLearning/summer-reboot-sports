@@ -17,8 +17,29 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-28
+<!-- DAILY_CHECKIN_2026-06-28_START -->
+今天是否完成：
+
+-   完成
+    
+
+运动类型：跑步
+
+运动时长：30 min
+
+Proof：
+
+![微信图片_20260628225015_14820_158.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/dylanlyu123/images/2026-06-28-1782660449282-_____20260628225015_14820_158.jpg)
+
+身体 / 睡眠 / 情绪感受：良好
+
+一句话记录：中规中矩，持续回暖中
+<!-- DAILY_CHECKIN_2026-06-28_END -->
+
 # 2026-06-26
 <!-- DAILY_CHECKIN_2026-06-26_START -->
+
 今天是否完成：
 
 -   完成
@@ -40,6 +61,7 @@ Proof：
 # 2026-06-25
 <!-- DAILY_CHECKIN_2026-06-25_START -->
 
+
 今天是否完成：
 
 -   完成
@@ -60,6 +82,7 @@ Proof：
 
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
+
 
 
 今天是否完成：
@@ -84,6 +107,7 @@ Proof：
 
 
 
+
 今天是否完成：
 
 -   完成
@@ -104,6 +128,7 @@ Proof：
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
