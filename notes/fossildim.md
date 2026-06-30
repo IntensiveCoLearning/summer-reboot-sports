@@ -15,8 +15,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-06-30
+<!-- DAILY_CHECKIN_2026-06-30_START -->
+![8096.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/fossildim/images/2026-06-30-1782817468550-8096.jpg)
+<!-- DAILY_CHECKIN_2026-06-30_END -->
+
 # 2026-06-29
 <!-- DAILY_CHECKIN_2026-06-29_START -->
+
 ![7865.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/fossildim/images/2026-06-29-1782743535007-7865.jpg)
 
 今日小区遛弯打卡
@@ -25,6 +31,7 @@ timezone: UTC+8
 # 2026-06-28
 <!-- DAILY_CHECKIN_2026-06-28_START -->
 
+
 ![7594.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/fossildim/images/2026-06-28-1782650400086-7594.jpg)
 
 骑行打卡
@@ -32,6 +39,7 @@ timezone: UTC+8
 
 # 2026-06-26
 <!-- DAILY_CHECKIN_2026-06-26_START -->
+
 
 
 ![7046.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/fossildim/images/2026-06-26-1782489018691-7046.jpg)
@@ -44,11 +52,13 @@ timezone: UTC+8
 
 
 
+
 今日骑自行车打卡
 <!-- DAILY_CHECKIN_2026-06-25_END -->
 
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
+
 
 
 
@@ -65,11 +75,13 @@ timezone: UTC+8
 
 
 
+
 今日做医美项目，休息一天~
 <!-- DAILY_CHECKIN_2026-06-23_END -->
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
