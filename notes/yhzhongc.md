@@ -15,19 +15,28 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-03
+<!-- DAILY_CHECKIN_2026-07-03_START -->
+早上：30分钟力量训练+20分钟椭圆仪  
+晚上：40分钟椭圆仪慢跑
+<!-- DAILY_CHECKIN_2026-07-03_END -->
+
 # 2026-07-01
 <!-- DAILY_CHECKIN_2026-07-01_START -->
+
 今日练腿 + 20分钟椭圆仪
 <!-- DAILY_CHECKIN_2026-07-01_END -->
 
 # 2026-06-30
 <!-- DAILY_CHECKIN_2026-06-30_START -->
 
+
 今天没咋运动，走了20分钟
 <!-- DAILY_CHECKIN_2026-06-30_END -->
 
 # 2026-06-28
 <!-- DAILY_CHECKIN_2026-06-28_START -->
+
 
 
 今天做了30分钟的力量训练，proof的话就是我的哑铃了
@@ -38,11 +47,13 @@ timezone: UTC+8
 
 
 
+
 今天太累了，20分钟慢走吧
 <!-- DAILY_CHECKIN_2026-06-25_END -->
 
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
+
 
 
 
@@ -59,6 +70,7 @@ timezone: UTC+8
 
 
 
+
 ![e720706642480d67f967f97799a46412.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/yhzhongc/images/2026-06-23-1782230260599-e720706642480d67f967f97799a46412.jpg)
 
   
@@ -67,6 +79,7 @@ timezone: UTC+8
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
