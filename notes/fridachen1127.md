@@ -15,8 +15,18 @@ timezone: UTC+0
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-03
+<!-- DAILY_CHECKIN_2026-07-03_START -->
+如果遛弯算运动的话，我可能只走了3k步。今天主要是和妈妈打电话聊天，分享一些生意方面的分析。
+
+明天补上。
+
+后天去跑步。
+<!-- DAILY_CHECKIN_2026-07-03_END -->
+
 # 2026-06-30
 <!-- DAILY_CHECKIN_2026-06-30_START -->
+
 1.  走路一万三步
     
 2.  面拉3\*15
@@ -26,6 +36,7 @@ timezone: UTC+0
 
 # 2026-06-29
 <!-- DAILY_CHECKIN_2026-06-29_START -->
+
 
 周一混爬楼机/快走/划船机，爬楼和快走速度分别是7和6，混了40min有氧
 
@@ -40,11 +51,13 @@ timezone: UTC+0
 <!-- DAILY_CHECKIN_2026-06-27_START -->
 
 
+
 上肢+爬坡，1h
 <!-- DAILY_CHECKIN_2026-06-27_END -->
 
 # 2026-06-25
 <!-- DAILY_CHECKIN_2026-06-25_START -->
+
 
 
 
@@ -57,11 +70,13 @@ timezone: UTC+0
 
 
 
+
 夏天出门上上下下找耳机找了一小时，绝倒。
 <!-- DAILY_CHECKIN_2026-06-24_END -->
 
 # 2026-06-23
 <!-- DAILY_CHECKIN_2026-06-23_START -->
+
 
 
 
@@ -94,6 +109,7 @@ prrof: 2
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
