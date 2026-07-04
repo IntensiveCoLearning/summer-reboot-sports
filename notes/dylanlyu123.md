@@ -17,8 +17,29 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-04
+<!-- DAILY_CHECKIN_2026-07-04_START -->
+今天是否完成：
+
+-   完成
+    
+
+运动类型：补卡 + 拉伸
+
+运动时长：20 min
+
+Proof：
+
+![微信图片_20260703213610_15023_158.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/dylanlyu123/images/2026-07-04-1783167652806-_____20260703213610_15023_158.jpg)
+
+身体 / 睡眠 / 情绪感受：状态回暖中
+
+一句话记录：最近台风，一直室外有雨，慢慢学习和适应室内运动
+<!-- DAILY_CHECKIN_2026-07-04_END -->
+
 # 2026-07-01
 <!-- DAILY_CHECKIN_2026-07-01_START -->
+
 今天是否完成：
 
 -   完成
@@ -40,6 +61,7 @@ Proof：
 # 2026-06-30
 <!-- DAILY_CHECKIN_2026-06-30_START -->
 
+
 今天是否完成：
 
 -   完成
@@ -58,6 +80,7 @@ Proof：none
 
 # 2026-06-29
 <!-- DAILY_CHECKIN_2026-06-29_START -->
+
 
 
 今天是否完成：
@@ -85,6 +108,7 @@ Proof：
 
 
 
+
 今天是否完成：
 
 -   完成
@@ -105,6 +129,7 @@ Proof：
 
 # 2026-06-26
 <!-- DAILY_CHECKIN_2026-06-26_START -->
+
 
 
 
@@ -134,6 +159,7 @@ Proof：
 
 
 
+
 今天是否完成：
 
 -   完成
@@ -154,6 +180,7 @@ Proof：
 
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
+
 
 
 
@@ -186,6 +213,7 @@ Proof：
 
 
 
+
 今天是否完成：
 
 -   完成
@@ -206,6 +234,7 @@ Proof：
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
