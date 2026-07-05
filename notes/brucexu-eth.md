@@ -17,17 +17,19 @@ timezone: UTC+8
 <!-- Content_START -->
 # 2026-07-05
 <!-- DAILY_CHECKIN_2026-07-05_START -->
-今天休息日，然后走路为主
+今天休息日，然后走路为主 走了 8k+ 步。最后一天不控制饮食，明天开始正式的减肥。
 <!-- DAILY_CHECKIN_2026-07-05_END -->
 
 # 2026-07-03
 <!-- DAILY_CHECKIN_2026-07-03_START -->
+
 
 今天练了上肢，全套都做完了。累死。
 <!-- DAILY_CHECKIN_2026-07-03_END -->
 
 # 2026-07-01
 <!-- DAILY_CHECKIN_2026-07-01_START -->
+
 
 
 昨天练了腿，今天是休息日。
@@ -38,11 +40,13 @@ timezone: UTC+8
 
 
 
+
 今天练了上半身的肌肉。称了一下，感觉自己的上肢肌肉确实太少了。
 <!-- DAILY_CHECKIN_2026-06-29_END -->
 
 # 2026-06-27
 <!-- DAILY_CHECKIN_2026-06-27_START -->
+
 
 
 
@@ -57,11 +61,13 @@ timezone: UTC+8
 
 
 
+
 今天出去逛逛园区和走路多一些
 <!-- DAILY_CHECKIN_2026-06-26_END -->
 
 # 2026-06-25
 <!-- DAILY_CHECKIN_2026-06-25_START -->
+
 
 
 
@@ -80,11 +86,13 @@ timezone: UTC+8
 
 
 
+
 今天练腿臀，一小时
 <!-- DAILY_CHECKIN_2026-06-23_END -->
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
