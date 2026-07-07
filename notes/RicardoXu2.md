@@ -15,8 +15,16 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-07
+<!-- DAILY_CHECKIN_2026-07-07_START -->
+打卡✅
+
+今年天气还不错，慢跑 5km
+<!-- DAILY_CHECKIN_2026-07-07_END -->
+
 # 2026-07-06
 <!-- DAILY_CHECKIN_2026-07-06_START -->
+
 今天下雨，搁置了。
 
 过两天准备找时间去室内游泳，畅游✅
@@ -24,6 +32,7 @@ timezone: UTC+8
 
 # 2026-07-05
 <!-- DAILY_CHECKIN_2026-07-05_START -->
+
 
 
 打卡✅
@@ -34,11 +43,13 @@ timezone: UTC+8
 
 
 
+
 打卡✅
 <!-- DAILY_CHECKIN_2026-07-04_END -->
 
 # 2026-07-03
 <!-- DAILY_CHECKIN_2026-07-03_START -->
+
 
 
 
@@ -55,11 +66,13 @@ timezone: UTC+8
 
 
 
+
 群里有一个集体任务，明天要开始稳定慢跑 5 公里。在跑步这一块还是属于新手，慢慢的去坚持和摸索。
 <!-- DAILY_CHECKIN_2026-07-02_END -->
 
 # 2026-07-01
 <!-- DAILY_CHECKIN_2026-07-01_START -->
+
 
 
 
@@ -80,6 +93,7 @@ timezone: UTC+8
 
 
 
+
 打卡
 
 依旧暴走
@@ -87,6 +101,7 @@ timezone: UTC+8
 
 # 2026-06-29
 <!-- DAILY_CHECKIN_2026-06-29_START -->
+
 
 
 
@@ -112,6 +127,7 @@ timezone: UTC+8
 
 
 
+
 依旧暴走
 
 ![1000009791.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/RicardoXu2/images/2026-06-27-1782565086547-1000009791.jpg)
@@ -119,6 +135,7 @@ timezone: UTC+8
 
 # 2026-06-26
 <!-- DAILY_CHECKIN_2026-06-26_START -->
+
 
 
 
@@ -149,11 +166,13 @@ timezone: UTC+8
 
 
 
+
 打卡！
 <!-- DAILY_CHECKIN_2026-06-25_END -->
 
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
+
 
 
 
@@ -186,11 +205,13 @@ timezone: UTC+8
 
 
 
+
 今天跑了大概 40 分钟的慢跑，再过几天准备去游泳。
 <!-- DAILY_CHECKIN_2026-06-23_END -->
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
