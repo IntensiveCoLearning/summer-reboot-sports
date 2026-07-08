@@ -17,8 +17,31 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-08
+<!-- DAILY_CHECKIN_2026-07-08_START -->
+每日打卡
+
+今天是否完成：
+
+-   完成
+    
+
+运动类型：间歇跑 + 热身 + 拉伸
+
+运动时长：30 min
+
+Proof：
+
+![微信图片_20260708194639_15262_158.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/summer-reboot-sports/main/assets/dylanlyu123/images/2026-07-08-1783514662462-_____20260708194639_15262_158.jpg)
+
+身体 / 睡眠 / 情绪感受：比预期要好，本来打算跑 5'20 的配速，但是感觉 4‘30 左右也能跑，后半程有点吃力
+
+一句话记录：开始产生正反馈
+<!-- DAILY_CHECKIN_2026-07-08_END -->
+
 # 2026-07-07
 <!-- DAILY_CHECKIN_2026-07-07_START -->
+
 今天是否完成：
 
 -   完成
@@ -37,6 +60,7 @@ Proof：none
 
 # 2026-07-06
 <!-- DAILY_CHECKIN_2026-07-06_START -->
+
 
 今天是否完成：
 
@@ -58,6 +82,7 @@ Proof：
 
 # 2026-07-05
 <!-- DAILY_CHECKIN_2026-07-05_START -->
+
 
 
 今天是否完成：
@@ -84,6 +109,7 @@ Proof：
 
 
 
+
 今天是否完成：
 
 -   完成
@@ -104,6 +130,7 @@ Proof：
 
 # 2026-07-01
 <!-- DAILY_CHECKIN_2026-07-01_START -->
+
 
 
 
@@ -135,6 +162,7 @@ Proof：
 
 
 
+
 今天是否完成：
 
 -   完成
@@ -153,6 +181,7 @@ Proof：none
 
 # 2026-06-29
 <!-- DAILY_CHECKIN_2026-06-29_START -->
+
 
 
 
@@ -190,6 +219,7 @@ Proof：
 
 
 
+
 今天是否完成：
 
 -   完成
@@ -210,6 +240,7 @@ Proof：
 
 # 2026-06-26
 <!-- DAILY_CHECKIN_2026-06-26_START -->
+
 
 
 
@@ -249,6 +280,7 @@ Proof：
 
 
 
+
 今天是否完成：
 
 -   完成
@@ -269,6 +301,7 @@ Proof：
 
 # 2026-06-24
 <!-- DAILY_CHECKIN_2026-06-24_START -->
+
 
 
 
@@ -311,6 +344,7 @@ Proof：
 
 
 
+
 今天是否完成：
 
 -   完成
@@ -331,6 +365,7 @@ Proof：
 
 # 2026-06-22
 <!-- DAILY_CHECKIN_2026-06-22_START -->
+
 
 
 
