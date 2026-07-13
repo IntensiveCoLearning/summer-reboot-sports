@@ -193,14 +193,14 @@ Proof：
 | Name | 6.22 | 6.23 | 6.24 | 6.25 | 6.26 | 6.27 | 6.28 | 6.29 | 6.30 | 7.01 | 7.02 | 7.03 | 7.04 | 7.05 | 7.06 | 7.07 | 7.08 | 7.09 | 7.10 | 7.11 | 7.12 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | [meixingyu001-code](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/meixingyu001-code.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ |
-| [BareerahBenjamin](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/BareerahBenjamin.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |   |
+| [BareerahBenjamin](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/BareerahBenjamin.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ |
 | [tongtong268439](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/tongtong268439.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [RicardoXu2](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/RicardoXu2.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ |
 | [pillowtalk-Qy](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/pillowtalk-Qy.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ |
 | [mave99a](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/mave99a.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
-| [fossildim](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/fossildim.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |
+| [fossildim](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/fossildim.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
 | [muxin-web3](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/muxin-web3.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ |
-| [dylanlyu123](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/dylanlyu123.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |   |
+| [dylanlyu123](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/dylanlyu123.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ |
 | [LittleModesty](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/LittleModesty.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [web3yaso](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/web3yaso.md) | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | |
 | [wodeche](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/wodeche.md) | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ❌ | | | | | | | | | | | | | | | |
@@ -208,7 +208,7 @@ Proof：
 | [brucexu-eth](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/brucexu-eth.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ❌ | | | | | | | | |
 | [jingedawang](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/jingedawang.md) | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ |
 | [shaoyanjun-syj](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/shaoyanjun-syj.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
-| [skelitalynn](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/skelitalynn.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ |   |
+| [skelitalynn](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/skelitalynn.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
 | [iokk](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/iokk.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | |
 | [Coooder-Crypto](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Coooder-Crypto.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [Rebecca9715](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Rebecca9715.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ❌ | |
@@ -230,7 +230,7 @@ Proof：
 | [Iven666](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/Iven666.md) | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ❌ | | | | | | | | | | | | | | | |
 | [MatianMaoL](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/MatianMaoL.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [fridachen1127](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/fridachen1127.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ❌ | | | | | | | | |
-| [LittleBellyGo](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/LittleBellyGo.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |
+| [LittleBellyGo](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/LittleBellyGo.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
 | [boombb12138](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/boombb12138.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [merlin-ecde](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/merlin-ecde.md) | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | |
 | [tobaizhizhi](https://github.com/IntensiveCoLearning/summer-reboot-sports/blob/main/notes/tobaizhizhi.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
@@ -1078,15 +1078,16 @@ Proof：
 
 
 
+
 <!-- STATISTICALDATA_START -->
 ## 统计数据
 
-- 总参与人数: 0
-- 完成人数: 0
-- 完成用户: 
-- 全勤用户: 
-- 淘汰人数: 0
-- 淘汰率: 0.00%
+- 总参与人数: 51
+- 完成人数: 15
+- 完成用户: meixingyu001-code, BareerahBenjamin, RicardoXu2, pillowtalk-Qy, fossildim, muxin-web3, dylanlyu123, jingedawang, skelitalynn, Jasper-B-WLB, Apricity0401, NeoWeb3Nova, 15998431520, MatianMaoL, LittleBellyGo
+- 全勤用户: Apricity0401, NeoWeb3Nova, MatianMaoL
+- 淘汰人数: 36
+- 淘汰率: 70.59%
 <!-- STATISTICALDATA_END -->
 
 
